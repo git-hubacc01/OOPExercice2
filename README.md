@@ -1,4 +1,4 @@
-#OOPExercice_2
+#OOPExercice 2
 
 Lab Exercise 2
 
